@@ -35,6 +35,31 @@ class Carousel extends React.Component {
                     link:'https://calm-harbor-58560.herokuapp.com/',
                     selected: false
                 },
+                {
+                    id:3,
+                    title:'Fitness Tracker',
+                    subTitle:'A simple mongoDb based workout tracker.',
+                    imgSrc: fitnesstracker,
+                    link:'https://calm-harbor-58560.herokuapp.com/',
+                    selected: false
+                },
+                {
+                    id:4,
+                    title:'Fitness Tracker',
+                    subTitle:'A simple mongoDb based workout tracker.',
+                    imgSrc: fitnesstracker,
+                    link:'https://calm-harbor-58560.herokuapp.com/',
+                    selected: false
+                },
+                {
+                    id:5,
+                    title:'Fitness Tracker',
+                    subTitle:'A simple mongoDb based workout tracker.',
+                    imgSrc: fitnesstracker,
+                    link:'https://calm-harbor-58560.herokuapp.com/',
+                    selected: false
+                },
+
             ]
     
         }
