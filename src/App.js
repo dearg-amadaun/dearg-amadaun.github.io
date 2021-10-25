@@ -25,9 +25,9 @@ constructor(props) {
       { title: 'Contact', path: '/contact'},
     ],
     home: {
-      title: 'My Portfolio',
-      subTitle: 'My shitty, shitty portfolio.',
-      text: 'My shitty, shitty, projects.'
+      title: 'New skills,',
+      subTitle: 'New career,',
+      text: 'Bootcamp and beyond!'
     },
     about: {
       title: 'About Me'
