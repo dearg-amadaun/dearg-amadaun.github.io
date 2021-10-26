@@ -12,8 +12,6 @@ function AboutPage(props) {
 
             <Image className="rounded mx-auto d-block mt-5" src={headshot} alt="Brendan" rounded />
                   
-
-
             <Content>
                     <Hero title={props.title} />
                         
