@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad2c07a9.chunk.css",
-    "main.js": "/static/js/main.7a63eb4b.chunk.js",
-    "main.js.map": "/static/js/main.7a63eb4b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dc33665e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dc33665e.js.map",
-    "static/css/2.d5e620ed.chunk.css": "/static/css/2.d5e620ed.chunk.css",
-    "static/js/2.c3f0a2f1.chunk.js": "/static/js/2.c3f0a2f1.chunk.js",
-    "static/js/2.c3f0a2f1.chunk.js.map": "/static/js/2.c3f0a2f1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.d5e620ed.chunk.css.map": "/static/css/2.d5e620ed.chunk.css.map",
-    "static/css/main.ad2c07a9.chunk.css.map": "/static/css/main.ad2c07a9.chunk.css.map",
-    "static/js/2.c3f0a2f1.chunk.js.LICENSE.txt": "/static/js/2.c3f0a2f1.chunk.js.LICENSE.txt",
-    "static/media/fitlist.e68be035.jpg": "/static/media/fitlist.e68be035.jpg"
+    "main.css": "/react-portfolio/static/css/main.ad2c07a9.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.b3f419f0.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.b3f419f0.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.7530632e.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.7530632e.js.map",
+    "static/css/2.d5e620ed.chunk.css": "/react-portfolio/static/css/2.d5e620ed.chunk.css",
+    "static/js/2.42b9cab8.chunk.js": "/react-portfolio/static/js/2.42b9cab8.chunk.js",
+    "static/js/2.42b9cab8.chunk.js.map": "/react-portfolio/static/js/2.42b9cab8.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.d5e620ed.chunk.css.map": "/react-portfolio/static/css/2.d5e620ed.chunk.css.map",
+    "static/css/main.ad2c07a9.chunk.css.map": "/react-portfolio/static/css/main.ad2c07a9.chunk.css.map",
+    "static/js/2.42b9cab8.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.42b9cab8.chunk.js.LICENSE.txt",
+    "static/media/fitlist.e68be035.jpg": "/react-portfolio/static/media/fitlist.e68be035.jpg",
+    "static/media/headshot.3548c5be.jpg": "/react-portfolio/static/media/headshot.3548c5be.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc33665e.js",
+    "static/js/runtime-main.7530632e.js",
     "static/css/2.d5e620ed.chunk.css",
-    "static/js/2.c3f0a2f1.chunk.js",
+    "static/js/2.42b9cab8.chunk.js",
     "static/css/main.ad2c07a9.chunk.css",
-    "static/js/main.7a63eb4b.chunk.js"
+    "static/js/main.b3f419f0.chunk.js"
   ]
 }
