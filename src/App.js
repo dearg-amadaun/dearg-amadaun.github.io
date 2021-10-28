@@ -21,9 +21,9 @@ constructor(props) {
   this.state = {
     title: 'Brendan Rottmund',
     headerLinks: [
-      { title: 'Home', path: '/'},
-      { title: 'About', path: '/about'},
-      { title: 'Contact', path: '/contact'},
+      { title: 'Home', path: '/old-react/'},
+      { title: 'About', path: '/old-react/about'},
+      { title: 'Contact', path: '/old-react/contact'},
     ],
     home: {
       title: 'New skills,',
@@ -48,20 +48,20 @@ constructor(props) {
             <Navbar.Toggle className="border-0" aria-controls="navbar-toggle" />
             <Navbar.Collapse id="navbar-toggle">
               <Nav className="ml-auto">
-                <Link className="nav-link" to="/">Home</Link>
-                <Link className="nav-link" to="/about">About</Link>
-                <Link className="nav-link" to="/contact">Contact</Link>
+                <Link className="nav-link" to="/old-react/">Home</Link>
+                <Link className="nav-link" to="/old-react/about">About</Link>
+                <Link className="nav-link" to="/old-react/contact">Contact</Link>
               </Nav>
             </Navbar.Collapse>
           </Navbar>
               <Switch>
-                <Route exact path="/" render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text} />} />
+                <Route exact path="/old-react/" render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text} />} />
               </Switch>  
               <Switch>
-                <Route path="/about" render={() => <AboutPage title={this.state.about.title} />} />
+                <Route path="/old-react/about" render={() => <AboutPage title={this.state.about.title} />} />
               </Switch>
               <Switch>
-                <Route path="/contact" render={() => <ContactPage title={this.state.Contact.title} />} />
+                <Route path="/old-react/contact" render={() => <ContactPage title={this.state.Contact.title} />} />
               </Switch>
           <Footer />
 
