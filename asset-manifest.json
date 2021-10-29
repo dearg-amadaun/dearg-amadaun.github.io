@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/dearg-amadaun.github.io/static/css/main.ad2c07a9.chunk.css",
-    "main.js": "/dearg-amadaun.github.io/static/js/main.0e88c92b.chunk.js",
-    "main.js.map": "/dearg-amadaun.github.io/static/js/main.0e88c92b.chunk.js.map",
-    "runtime-main.js": "/dearg-amadaun.github.io/static/js/runtime-main.49d04222.js",
-    "runtime-main.js.map": "/dearg-amadaun.github.io/static/js/runtime-main.49d04222.js.map",
-    "static/css/2.d5e620ed.chunk.css": "/dearg-amadaun.github.io/static/css/2.d5e620ed.chunk.css",
-    "static/js/2.85896084.chunk.js": "/dearg-amadaun.github.io/static/js/2.85896084.chunk.js",
-    "static/js/2.85896084.chunk.js.map": "/dearg-amadaun.github.io/static/js/2.85896084.chunk.js.map",
-    "index.html": "/dearg-amadaun.github.io/index.html",
-    "static/css/2.d5e620ed.chunk.css.map": "/dearg-amadaun.github.io/static/css/2.d5e620ed.chunk.css.map",
-    "static/css/main.ad2c07a9.chunk.css.map": "/dearg-amadaun.github.io/static/css/main.ad2c07a9.chunk.css.map",
-    "static/js/2.85896084.chunk.js.LICENSE.txt": "/dearg-amadaun.github.io/static/js/2.85896084.chunk.js.LICENSE.txt",
-    "static/media/fitlist.e68be035.jpg": "/dearg-amadaun.github.io/static/media/fitlist.e68be035.jpg",
-    "static/media/headshot.3548c5be.jpg": "/dearg-amadaun.github.io/static/media/headshot.3548c5be.jpg"
+    "main.css": "/dearg-amadaun.github.io/home/static/css/main.ad2c07a9.chunk.css",
+    "main.js": "/dearg-amadaun.github.io/home/static/js/main.5edc54e9.chunk.js",
+    "main.js.map": "/dearg-amadaun.github.io/home/static/js/main.5edc54e9.chunk.js.map",
+    "runtime-main.js": "/dearg-amadaun.github.io/home/static/js/runtime-main.8f306c3f.js",
+    "runtime-main.js.map": "/dearg-amadaun.github.io/home/static/js/runtime-main.8f306c3f.js.map",
+    "static/css/2.d5e620ed.chunk.css": "/dearg-amadaun.github.io/home/static/css/2.d5e620ed.chunk.css",
+    "static/js/2.85896084.chunk.js": "/dearg-amadaun.github.io/home/static/js/2.85896084.chunk.js",
+    "static/js/2.85896084.chunk.js.map": "/dearg-amadaun.github.io/home/static/js/2.85896084.chunk.js.map",
+    "index.html": "/dearg-amadaun.github.io/home/index.html",
+    "static/css/2.d5e620ed.chunk.css.map": "/dearg-amadaun.github.io/home/static/css/2.d5e620ed.chunk.css.map",
+    "static/css/main.ad2c07a9.chunk.css.map": "/dearg-amadaun.github.io/home/static/css/main.ad2c07a9.chunk.css.map",
+    "static/js/2.85896084.chunk.js.LICENSE.txt": "/dearg-amadaun.github.io/home/static/js/2.85896084.chunk.js.LICENSE.txt",
+    "static/media/fitlist.e68be035.jpg": "/dearg-amadaun.github.io/home/static/media/fitlist.e68be035.jpg",
+    "static/media/headshot.3548c5be.jpg": "/dearg-amadaun.github.io/home/static/media/headshot.3548c5be.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.49d04222.js",
+    "static/js/runtime-main.8f306c3f.js",
     "static/css/2.d5e620ed.chunk.css",
     "static/js/2.85896084.chunk.js",
     "static/css/main.ad2c07a9.chunk.css",
-    "static/js/main.0e88c92b.chunk.js"
+    "static/js/main.5edc54e9.chunk.js"
   ]
 }
