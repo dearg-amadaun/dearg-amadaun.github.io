@@ -18,12 +18,20 @@ function Footer() {
             <Container fluid={true}>
                 <Row className="border-top justify-content-between p-3">
                     <Col className="p-0" md={3} sm={12}>
-                        Brendan Rottmund
+                       &copy; Brendan Rottmund 2021
                     </Col>
                     <Col className="p-0 d-flex justify-content-end" md={3}>
-                        <FontAwesomeIcon icon={['fab', 'linkedin']} />
-                        <FontAwesomeIcon icon={['fab', 'github']} />
-                        <FontAwesomeIcon icon={['fas', 'envelope']} /> 
+                        <a href="https://www.linkedin.com/in/brendan-rottmund-587a501b2/">
+                            <FontAwesomeIcon icon={['fab', 'linkedin']} size="3x"/>
+                        </a>
+
+                        <a href="https://github.com/dearg-amadaun">
+                        <FontAwesomeIcon icon={['fab', 'github']} size="3x"/>
+                        </a>
+
+                        <a href="mailto:brottmund@gmail.com">
+                        <FontAwesomeIcon icon={['fas', 'envelope']} size="3x"/>
+                        </a> 
                         
                     </Col>
                 </Row>
