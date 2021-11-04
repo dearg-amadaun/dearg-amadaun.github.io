@@ -32,7 +32,7 @@ class Carousel extends React.Component {
                 {
                     id:1,
                     title:'Fitlist',
-                    subTitle:'An early attempt at building a profile based workout buuilder.',
+                    subTitle:'An early attempt at building a profile based workout builder.',
                     imgSrc: fitlist,
                     link1:'https://obscure-falls-14224.herokuapp.com/',
                     link2:'https://github.com/az84/FitList',
@@ -68,7 +68,7 @@ class Carousel extends React.Component {
                 {
                     id:5,
                     title:'Readme Generator',
-                    subTitle:'A node.js app that uses basic command line inputs to generate a markdown README file. (Requires Pull)',
+                    subTitle:'A node.js app to generate a markdown README file. (Requires Pull)',
                     imgSrc: readmeGen,
                     link2:'https://github.com/dearg-amadaun/Readme-Generator',
                     
