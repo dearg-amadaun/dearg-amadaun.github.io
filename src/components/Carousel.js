@@ -34,7 +34,7 @@ class Carousel extends React.Component {
                     title:'Fitlist',
                     subTitle:'An early attempt at building a profile based workout buuilder.',
                     imgSrc: fitlist,
-                    link11:'https://obscure-falls-14224.herokuapp.com/',
+                    link1:'https://obscure-falls-14224.herokuapp.com/',
                     link2:'https://github.com/az84/FitList',
                     selected: false
                 },
