@@ -10,6 +10,7 @@ import Nav from 'react-bootstrap/Nav';
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
+import ResumePage from './pages/ResumePage';
 import Footer from './components/Footer';
 
 
@@ -24,6 +25,7 @@ constructor(props) {
       { title: 'Home', path: '/'},
       { title: 'About', path: '/about'},
       { title: 'Contact', path: '/contact'},
+      { title: 'Resume', path: '/resume'},
     ],
     home: {
       title: 'New skills,',
@@ -33,9 +35,12 @@ constructor(props) {
     about: {
       title: 'About Me'
     },
-    Contact: {
+    contact: {
       title: 'Contact Me'
     },
+    resume: {
+      title: 'Resume'
+    }
   }
 }
   render() {
@@ -51,6 +56,8 @@ constructor(props) {
                 <Link className="nav-link" to="/">Home</Link>
                 <Link className="nav-link" to="/about">About</Link>
                 <Link className="nav-link" to="/contact">Contact</Link>
+                <Link className="nav-link" to="/resume">Resume</Link>
+                
               </Nav>
             </Navbar.Collapse>
           </Navbar>
@@ -61,7 +68,10 @@ constructor(props) {
                 <Route path="/about" render={() => <AboutPage title={this.state.about.title} />} />
               </Switch>
               <Switch>
-                <Route path="/contact" render={() => <ContactPage title={this.state.Contact.title} />} />
+                <Route path="/contact" render={() => <ContactPage title={this.state.contact.title} />} />
+              </Switch>
+              <Switch>
+                <Route path="/resume" render={() => <ResumePage title={this.state.resume.title} />} />
               </Switch>
           <Footer />
 

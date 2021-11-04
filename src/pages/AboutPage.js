@@ -1,17 +1,13 @@
 import React from 'react';
 import Content from '../components/Content';
 import Hero from '../components/Hero';
-import Image from 'react-bootstrap/Image'
 
-import headshot from '../assets/images/headshot.jpg'
 
 function AboutPage(props) {
     
     return(
         <div>
 
-            <Image className="rounded mx-auto d-block mt-5" src={headshot} alt="Brendan" rounded />
-                  
             <Content>
                     <Hero title={props.title} />
                         
