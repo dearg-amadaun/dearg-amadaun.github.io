@@ -11,6 +11,7 @@ function ResumePage(props) {
 
             <Content>
                     <Hero title={props.title} />
+                    <p>Click the image below for a PDF of my resume!</p>
 
             </Content>
             <a href="https://drive.google.com/file/d/125e1z5LQC5IM4DFAU3D_2UlvtNZ38B05/view?usp=sharing" target="_blank">
